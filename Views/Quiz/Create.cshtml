@@ -1,0 +1,13 @@
+﻿@model Quiz
+<h2>Create Quiz</h2>
+<form asp-action="Create">
+    <div>
+        <label>Title</label>
+        <input asp-for="Title" />
+    </div>
+    <div>
+        <label>Course</label>
+        <select asp-for="CourseId" asp-items="ViewBag.Courses"></select>
+    </div>
+    <button type="submit">Save</button>
+</form>

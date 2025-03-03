@@ -1,0 +1,16 @@
+﻿@model LMS.Models.Quiz
+
+@{
+    ViewData["Title"] = "Delete Quiz";
+}
+
+<h1>Delete Quiz</h1>
+
+<h3>Are you sure you want to delete the quiz @Model.Title?</h3>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <div class="form-group">
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a href="@Url.Action("Index", new { courseId = ViewData["CourseId"] })" class="btn btn-secondary">Cancel</a>
+    </div>
+</form>

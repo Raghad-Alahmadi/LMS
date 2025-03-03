@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\migrations\\20241230180227_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:migrations\\20241230180227_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\data\\lmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:data\\lmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\views\\instructor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:views\\instructor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\views\\instructor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:views\\instructor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\views\\quiz\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:views\\quiz\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\views\\quiz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:views\\quiz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\views\\quiz\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:views\\quiz\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|c:\\users\\ahuevo nice\\source\\repos\\lms\\lms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7E14D12-0DB3-4B1E-A8CD-AE186AEE9E69}|LMS.csproj|solutionrelative:lms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Instructor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instructor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Instructor\\Create.cshtml",
+              "RelativeToolTip": "Views\\Instructor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T18:11:46.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InstructorController.cs",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "Controllers\\InstructorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:06:23.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T18:34:34.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:59:56.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LmsContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Data\\LmsContext.cs",
+              "RelativeDocumentMoniker": "Data\\LmsContext.cs",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Data\\LmsContext.cs",
+              "RelativeToolTip": "Data\\LmsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:59:36.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241230180227_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Migrations\\20241230180227_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241230180227_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Migrations\\20241230180227_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241230180227_InitialCreate.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAgwFgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:02:27.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T18:01:42.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T18:34:23.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Instructor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instructor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Instructor\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Instructor\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T18:30:51.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Quiz\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Quiz\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Quiz\\Create.cshtml",
+              "RelativeToolTip": "Views\\Quiz\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T18:17:26.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Quiz\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Quiz\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Quiz\\Index.cshtml",
+              "RelativeToolTip": "Views\\Quiz\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T18:17:15.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T18:16:20.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T18:16:34.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Instructor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instructor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Instructor\\Index.cshtml",
+              "RelativeToolTip": "Views\\Instructor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T18:10:33.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuizController.cs",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "Controllers\\QuizController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:15:05.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:07:54.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:14:17.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T18:35:09.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Quiz\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Quiz\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Quiz\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Quiz\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T18:32:48.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Course\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Views\\Course\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Course\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T18:32:25.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:58:49.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Models\\Instructor.cs",
+              "RelativeToolTip": "Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:57:41.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Models\\Quiz.cs",
+              "RelativeDocumentMoniker": "Models\\Quiz.cs",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Models\\Quiz.cs",
+              "RelativeToolTip": "Models\\Quiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:59:04.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:58:05.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LMS",
+              "DocumentMoniker": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\LMS.csproj",
+              "RelativeDocumentMoniker": "LMS.csproj",
+              "ToolTip": "C:\\Users\\ahuevo nice\\source\\repos\\LMS\\LMS.csproj",
+              "RelativeToolTip": "LMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T17:57:30.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

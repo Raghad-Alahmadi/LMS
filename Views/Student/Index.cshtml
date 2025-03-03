@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Student>
+<h2>Students</h2>
+<a asp-action="Create">Add New Student</a>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

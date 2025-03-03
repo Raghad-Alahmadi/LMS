@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Instructor>
+<h2>Instructors</h2>
+<a asp-action="Create">Add New Instructor</a>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var instructor in Model)
+        {
+            <tr>
+                <td>@instructor.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
